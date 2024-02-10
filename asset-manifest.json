@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Meme-Generator-React-App/static/css/main.074e7600.css",
-    "main.js": "/Meme-Generator-React-App/static/js/main.093dbd5b.js",
+    "main.css": "/Meme-Generator-React-App/static/css/main.2649aefc.css",
+    "main.js": "/Meme-Generator-React-App/static/js/main.c901e33c.js",
     "static/js/808.3427c059.chunk.js": "/Meme-Generator-React-App/static/js/808.3427c059.chunk.js",
     "index.html": "/Meme-Generator-React-App/index.html",
-    "main.074e7600.css.map": "/Meme-Generator-React-App/static/css/main.074e7600.css.map",
-    "main.093dbd5b.js.map": "/Meme-Generator-React-App/static/js/main.093dbd5b.js.map",
+    "main.2649aefc.css.map": "/Meme-Generator-React-App/static/css/main.2649aefc.css.map",
+    "main.c901e33c.js.map": "/Meme-Generator-React-App/static/js/main.c901e33c.js.map",
     "808.3427c059.chunk.js.map": "/Meme-Generator-React-App/static/js/808.3427c059.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.074e7600.css",
-    "static/js/main.093dbd5b.js"
+    "static/css/main.2649aefc.css",
+    "static/js/main.c901e33c.js"
   ]
 }
