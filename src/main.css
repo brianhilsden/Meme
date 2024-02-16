@@ -1,0 +1,103 @@
+img{
+    display: block;
+}
+
+.main{
+    width: 98%;
+    margin: auto;
+}
+.form{
+    padding-top: 1rem;
+}
+
+.text{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.first-text,.last-text{
+    font-size: larger;
+    border-radius: 5px;
+    border-color: rebeccapurple;
+}
+input{
+    width: 48%;
+    height: 6vh;
+}
+
+.button{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 7px;
+    color: whitesmoke;
+    width: 100%;
+    height: 10vh;
+    background-image: linear-gradient(to right, purple,blueviolet );
+}
+
+
+.form img{
+    width: 100%;
+    height: auto;
+}
+.buttonColor {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    margin-bottom:0.5rem;
+    
+}
+.buttonColor h2{
+    font-size: large;
+}
+.meme{
+    width: 80%;
+    margin-top: 0;
+    margin: auto;
+    position: relative;
+    text-align: center;
+
+    background-color: black;
+}
+.meme-text{
+    position: absolute;
+    color: white;
+    text-align: center;
+    width: 100%;
+    letter-spacing: 2px;
+    font-size: 3em;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.top,.bottom{
+    
+    
+    text-align: center;
+}
+.top{
+    top: 0;
+}
+.bottom{
+    bottom: 0;
+}
+
+
+@media screen and (min-width:576px) {
+    .form{
+        margin: top 0;;
+    }
+  
+    .meme{
+        width: 30%;
+        
+        
+        
+    }
+    .button{
+        margin-top: 4px;
+        margin-bottom:2px;
+    }
+    
+}
